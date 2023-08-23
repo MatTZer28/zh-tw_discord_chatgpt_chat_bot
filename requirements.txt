@@ -1,0 +1,7 @@
+discord.py==2.3.2
+Flask==2.3.2
+gensim==4.3.1
+openai==0.27.8
+OpenCC==1.1.6
+opencc_python_reimplemented==0.1.7
+waitress==2.1.2
