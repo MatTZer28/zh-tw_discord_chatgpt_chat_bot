@@ -1,4 +1,4 @@
-# Discord 一個簡單的中文聊天機器人使用ChatGPT README
+# Discord 一個簡單的中文聊天機器人使用ChatGPT
 
 ## 一個能夠在 Discord 頻道中運行的AI聊天機器人  (非常簡單)。
 
